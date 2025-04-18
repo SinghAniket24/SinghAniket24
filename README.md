@@ -68,17 +68,32 @@
 - 🔐 Firebase login & personalized insights  
 - 💹 AI-powered stock recommendations  
 
-🔗 [Check it out on GitHub](https://github.com/SinghAniket24/wealth-wave-app)
+🔗 [View Project on GitHub »](https://github.com/SinghAniket24/wealth-wave-app)
 
 ---
 
-## 🌐 Portfolio & Certifications
+## 🌐 Portfolio & Certification
 
-🎯 **Portfolio Website**  
-[![Visit Portfolio](https://img.shields.io/badge/🌐%20My%20Portfolio-000?style=for-the-badge&logo=githubpages&logoColor=white)](https://singhaniket24.github.io/resume_db/)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://singhaniket24.github.io/resume_db/" target="_blank">
+        <img src="https://img.shields.io/badge/🌐 View%20Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Badge" />
+      </a>
+      <br/><br/>
+      <img src="https://github.com/SinghAniket24/resume_db/blob/main/preview.png?raw=true" alt="Portfolio Preview" width="300" style="border-radius: 10px;" />
+    </td>
+    <td align="center">
+      <a href="https://www.udemy.com/certificate/UC-2616ca84-fdb1-4c76-bd1c-c1172267714e/" target="_blank">
+        <img src="https://img.shields.io/badge/Udemy-Data%20Analytics%20Certification-purple?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy Certificate" />
+      </a>
+      <br/><br/>
+      <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" width="100" alt="Udemy Logo"/>
+    </td>
+  </tr>
+</table>
 
-📜 **Certification**  
-[![Complete Data Analytics – Udemy](https://img.shields.io/badge/Udemy-Data%20Analytics%20Course-purple?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-2616ca84-fdb1-4c76-bd1c-c1172267714e/)
+> ✨ You can explore my projects, skills, and more on my portfolio site!
 
 ---
 
