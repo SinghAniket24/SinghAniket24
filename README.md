@@ -13,7 +13,7 @@
 - 📍 Based in **Ambarnath, Maharashtra**  
 - 📈 Passionate about **Data Analytics, Web Development & App Development**  
 - 🤖 Currently exploring **AI, Firebase, and Machine Learning**  
-- 📫 Reach me at: **aniket.singh.st1@gmail.com**  
+- 📫 Reach me at: **aniket.singh.st1@gmail.com**
 
 ---
 
@@ -72,7 +72,17 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Portfolio & Certifications
+
+🎯 **Portfolio Website**  
+[![Visit Portfolio](https://img.shields.io/badge/🌐%20My%20Portfolio-000?style=for-the-badge&logo=githubpages&logoColor=white)](https://singhaniket24.github.io/resume_db/)
+
+📜 **Certification**  
+[![Complete Data Analytics – Udemy](https://img.shields.io/badge/Udemy-Data%20Analytics%20Course-purple?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-2616ca84-fdb1-4c76-bd1c-c1172267714e/)
+
+---
+
+## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/singhaniket24">
