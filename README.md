@@ -8,11 +8,8 @@
 ---
 
 ## 🧑‍🎓 About Me
-
-- 🎓 Pursuing **BSc in Information Technology** at **St. Xavier's College, Mumbai**  
-- 📍 Based in **Ambarnath, Maharashtra**  
+ 
 - 📈 Passionate about **Data Analytics, Web Development & App Development**  
-- 🤖 Currently exploring **AI, Firebase, and Machine Learning**  
 - 📫 Reach me at: **aniket.singh.st1@gmail.com**
 
 ---
