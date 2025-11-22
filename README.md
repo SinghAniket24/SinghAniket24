@@ -1,9 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Aniket Singh</h1>
 <h3 align="center">🚀 IT Student | Developer | Data Analyst | Tech Explorer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Exploring+Code+%F0%9F%94%A5;Building+Cool+Projects+%F0%9F%A7%AA;Loving+Data+%F0%9F%93%8A;Let's+Connect+%F0%9F%91%8B" alt="Typing SVG" />
-</p>
+
 
 ---
 
