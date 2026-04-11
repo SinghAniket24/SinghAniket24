@@ -1,5 +1,5 @@
 <h1 align="center">Aniket Singh</h1>
-<h3 align="center">IT Student | Software Developer | Data Analytics Enthusiast</h3>
+<h3 align="center">IT Student | Software Developer </h3>
 
 ---
 
