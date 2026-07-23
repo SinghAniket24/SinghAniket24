@@ -1,66 +1,34 @@
-<h1 align="center">Aniket Singh</h1>
-<h3 align="center">IT Student | Software Developer </h3>
+# Hi, I'm Aniket Singh 👋
 
----
+I'm a B.Sc. Information Technology graduate with an interest in full-stack and backend software development. I enjoy building scalable applications, designing clean system architectures, and solving real-world problems through software.
 
-## About Me
+## 🛠️ Tech Stack
 
-I am an IT student with a strong interest in building practical software solutions.  
-My focus areas include **software development, data analytics, and mobile applications**, with hands-on experience in both backend and frontend technologies.
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" />
+</p>
 
-📧 Email: aniket.singh.st1@gmail.com  
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite" />
+</p>
 
----
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,express,php" />
+</p>
 
-## Skills & Technologies
+### Database & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws" />
+</p>
 
-**Programming Languages**
-- Python, C++, Java, R, PHP
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
 
-**Web Development**
-- HTML, CSS, JavaScript, jQuery  
-- Node.js, MongoDB
+## 🌐 Portfolio
 
-**Mobile Development**
-- Flutter, Dart, Firebase
-
-**Data & Analytics**
-- Flask, Scikit-learn, Plotly, Seaborn  
-- Excel, Power BI
-
-**Databases**
-- MySQL, Firebase Firestore
-
-**Tools**
-- Git, Canva
-
----
-
-## Featured Project
-
-### Wealth Wave – Stock Market Analysis App  
-A Flutter-based application for **Nifty 50 stock analysis** with real-time data and insights.
-
-**Key Features**
-- Real-time stock data and interactive charts  
-- AI-based predictions and chatbot integration  
-- Firebase authentication and user-specific insights  
-
-🔗 GitHub Repository:  
-https://github.com/SinghAniket24/wealth-wave-app
-
----
-
-## Portfolio
-
-🌐 Portfolio Website:  
-https://singhaniket24.vercel.app
-
----
-
-## Connect with Me
-
-- LinkedIn: https://www.linkedin.com/in/singhaniket24  
-- Email: aniket.singh.st1@gmail.com
-
----
+**https://singhaniket24.vercel.app**
