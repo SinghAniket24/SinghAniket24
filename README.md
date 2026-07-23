@@ -1,34 +1,23 @@
-# Hi, I'm Aniket Singh 👋
+<h1 align="center">Aniket Singh</h1>
+<h3 align="center">Full Stack Software Developer</h3>
 
-I'm a B.Sc. Information Technology graduate with an interest in full-stack and backend software development. I enjoy building scalable applications, designing clean system architectures, and solving real-world problems through software.
+---
 
-## 🛠️ Tech Stack
+Hi 👋
 
-### Languages
+I'm a B.Sc. Information Technology graduate passionate about building scalable full-stack applications and backend systems. I enjoy designing clean software, developing RESTful APIs, and solving real-world problems through modern technologies.
+
+### 🛠️ Tech Stack
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" />
+  <img src="https://skillicons.dev/icons?i=java,python,react,spring,dotnet,nodejs,aws,mongodb,mysql,git" />
 </p>
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite" />
-</p>
+### 🌐 Portfolio
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,express,php" />
-</p>
+https://singhaniket24.vercel.app
 
-### Database & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws" />
-</p>
+### 📫 Connect
 
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-</p>
-
-## 🌐 Portfolio
-
-**https://singhaniket24.vercel.app**
+- LinkedIn: https://www.linkedin.com/in/singhaniket24/
+- Email: aniket.singh.st1@gmail.com
