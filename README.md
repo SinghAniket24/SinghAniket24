@@ -54,7 +54,7 @@ https://github.com/SinghAniket24/wealth-wave-app
 ## Portfolio
 
 🌐 Portfolio Website:  
-https://singhaniket24.github.io/resume_db/
+https://singhaniket24.vercel.app
 
 ---
 
