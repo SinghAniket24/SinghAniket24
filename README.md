@@ -1,23 +1,37 @@
-<h1 align="center">Aniket Singh</h1>
-<h3 align="center">Full Stack Software Developer</h3>
+<div align="center">
+
+# Aniket Singh
+### Full Stack Developer
+
+[Portfolio](https://singhaniket24.vercel.app) · [LinkedIn](https://www.linkedin.com/in/singhaniket24/) · [Email](mailto:aniket.singh.st1@gmail.com)
+
+</div>
 
 ---
 
-Hi 👋
+B.Sc. Information Technology, St. Xavier's College Mumbai (CGPA 9.48/10). Shipped full-stack features on a production OTT platform as a backend intern at Yellow Cube. Currently looking for SDE-1 roles.
 
-I'm a B.Sc. Information Technology graduate passionate about building scalable full-stack applications and backend systems. I enjoy designing clean software, developing RESTful APIs, and solving real-world problems through modern technologies.
+## Projects
 
-### 🛠️ Tech Stack
+**[CertiNexa](https://github.com/SinghAniket24/certinexa)** — Blockchain certificate verification system
+`MongoDB` `Express` `React` `Node.js` `Solidity`
+Backend architect on a 3-member team. Designed 12 REST endpoints across admin, organization, recipient and certificate modules, built the SHA-256 tamper-detection system, and ran security testing with Wireshark and OWASP ZAP. Smart contract deployed to Sepolia. [Live](https://certinexa.vercel.app)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,react,spring,dotnet,nodejs,aws,mongodb,mysql,git" />
-</p>
+**[Cinebook](https://github.com/SinghAniket24/Cinebook)** — Microservices cinema booking platform
+`Spring Boot` `RabbitMQ` `Eureka`
+Contributed backend services to a 6-service architecture (discovery server, API gateway, booking, notification, movie, admin). Built async, event-driven booking workflows with RabbitMQ to decouple ticket generation and email from the core transaction.
 
-### 🌐 Portfolio
+**[DocuSearch](https://github.com/SinghAniket24/docusearch-rag-engine)** — Conversational RAG engine
+`FastAPI` `ChromaDB` `Gemini`
+Chunks documents into sentence-level segments for semantic vector search, generates answers with page-level citations, and rewrites queries using chat history for context-aware follow-ups.
 
-https://singhaniket24.vercel.app
+## Stack
 
-### 📫 Connect
+Java, Python, JavaScript, C++
+Spring Boot, Node.js, React.js, Flutter
+MongoDB, SQL, AWS
+Git, Docker
 
-- LinkedIn: https://www.linkedin.com/in/singhaniket24/
-- Email: aniket.singh.st1@gmail.com
+## Certifications
+
+AWS Certified Cloud Practitioner · Data Streaming Engineer Foundations (Confluent) · Hugging Face Agents Course
